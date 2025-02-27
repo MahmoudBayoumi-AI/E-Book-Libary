@@ -8,11 +8,11 @@ E-Book Library is a database project developed as part of an educational course 
 
 🔧 Technologies Used
 
-Database: MySQL
+- Database: MySQL
 
-SQL for table creation and relationship management
+- SQL for table creation and relationship management
 
-Foreign Keys to ensure data integrity
+- Foreign Keys to ensure data integrity
 
 
 ⚙️ Features
@@ -37,11 +37,11 @@ The database schema is fully designed and functional, supporting essential opera
 
 🏆 Challenges Overcome
 
-Properly establishing relationships and foreign key constraints between tables
+- Properly establishing relationships and foreign key constraints between tables
 
-Designing an efficient schema to support search and filtering
+- Designing an efficient schema to support search and filtering
 
-Maintaining data integrity when modifying or deleting records
+- Maintaining data integrity when modifying or deleting records
 
 
 📂 Project Files
