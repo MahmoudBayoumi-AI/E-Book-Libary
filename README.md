@@ -17,7 +17,12 @@ Foreign Keys to ensure data integrity
 
 ⚙️ Features
 
-✅ User registration with email and password authentication✅ Book categorization into multiple genres✅ Reading history tracking for each user✅ Users can submit reviews and ratings for books✅ Favorite books list management✅ Data integrity enforcement using ON DELETE CASCADE constraints
+✅ User registration with email and password authentication
+✅ Book categorization into multiple genres
+✅ Reading history tracking for each user
+✅ Users can submit reviews and ratings for books
+✅ Favorite books list management
+✅ Data integrity enforcement using ON DELETE CASCADE constraints
 
 
 🚀 Project Status
